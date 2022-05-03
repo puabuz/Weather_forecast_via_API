@@ -1,0 +1,49 @@
+html, body {
+    font-family: serif;
+}
+body {
+    margin: 20px;
+}
+
+.container {
+    border: 1px solid #FC8E3A;
+    box-shadow: 3px 5px 15px #FCDCC4;
+    background: linear-gradient(#6584FD, #FFCB9F);
+    display: block;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    border-radius: 19px;
+    max-width: 300px;
+}
+
+#city{
+    padding: 10px 70px;
+    border-radius: 10px;
+    background: #FC8E3A;
+    color: white;
+}
+
+.wraper {
+    margin: 15px auto;
+}
+
+#city {
+    display: block;
+    margin: 10px auto;
+}
+
+.size {
+    margin:  10px auto;
+    text-align: center;
+    font-size: 30px;
+    color: #474219;
+}
+
+hr {
+    width: 150px;
+}
+
+span{
+    font-size: 20px;
+}
